@@ -1,0 +1,5 @@
+name: MSGPlugin-BungeeCord
+version: '${project.version}'
+main: de.fido.msgpluginbungeecord.MSGPlugin_BungeeCord
+author: Fido_de07
+description: Send and Receive Message from other players (other proxies included)
