@@ -1,3 +1,5 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/fidode07/msgplugin_bungeecord/badge)](https://www.codefactor.io/repository/github/fidode07/msgplugin_bungeecord)
+
 # MSGPlugin_BungeeCord
 Simple /msg and /r plugin for BungeeCord (works across different servers).
 
